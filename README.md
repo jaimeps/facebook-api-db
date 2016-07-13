@@ -12,5 +12,5 @@ This is a small example using Facebook's API to retrieve the posts from a specif
 <img src="https://github.com/jaimeps/facebook-api-db/blob/master/images/example.png">
 
 ### References
-- Facebook for Developers - Docs
+- [Facebook for Developers - Docs](https://developers.facebook.com/docs/)
 - Maria Daltayanni - *Data Acquisition - Course notes*
